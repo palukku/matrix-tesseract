@@ -40,3 +40,7 @@ corrosion/required_libs/Cargo.lock
 # imported as well as executed, which leaves a __pycache__/ next to them.
 /__pycache__/
 *.pyc
+
+# nix build output symlinks
+result
+result-*

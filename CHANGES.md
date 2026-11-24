@@ -5,6 +5,7 @@ Tagged releases summarize all changes since the previous tag.
 
 ## Unreleased
 
+- feat(packaging): a Nix flake and nixpkgs-ready package let Tesseract be built and installed on NixOS. nix build (Qt6)
 - fix(macos): a restored draft, and text typed after a mention or emoticon, no longer turns black in the composer.
 - fix(macos): the text-field context menu and other system menus follow the system language instead of always showing English.
 - fix(ui): removing a power-level override no longer leaves a blank in the room history. Linux Qt6 build, ctest 4054/4054
